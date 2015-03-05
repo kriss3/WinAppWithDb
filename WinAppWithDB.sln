@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp", "WinApp\WinApp.csproj", "{3E37369C-B5E3-4F71-BFBC-0BE869F2FC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{7C50A41E-E8BF-44D2-9B09-7A9C28B55EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E37369C-B5E3-4F71-BFBC-0BE869F2FC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E37369C-B5E3-4F71-BFBC-0BE869F2FC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E37369C-B5E3-4F71-BFBC-0BE869F2FC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E37369C-B5E3-4F71-BFBC-0BE869F2FC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C50A41E-E8BF-44D2-9B09-7A9C28B55EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C50A41E-E8BF-44D2-9B09-7A9C28B55EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C50A41E-E8BF-44D2-9B09-7A9C28B55EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C50A41E-E8BF-44D2-9B09-7A9C28B55EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
